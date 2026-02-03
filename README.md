@@ -53,7 +53,7 @@ A crypto-trading platform showcasing real-time market data, portfolio management
 
 ## 📊 GitHub Stats
 
-![Tolu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolu13&show_icons=true&theme=radical)
+![Tolulope's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolu13&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolu13&layout=compact&theme=radical)
 
@@ -61,7 +61,7 @@ A crypto-trading platform showcasing real-time market data, portfolio management
 
 ## 👀 Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/tolu13/count.svg)
+![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftolu13&countBg=%2379C83D&title=visitors&icon=&iconColor=%23E7E7E7&titleColor=%23FFFFFF&edgeFlat=false)
 
 ---
 
