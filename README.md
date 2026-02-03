@@ -61,7 +61,7 @@ A crypto-trading platform showcasing real-time market data, portfolio management
 
 ## 👀 Visitors
 
-![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftolu13&countBg=%2379C83D&title=visitors&icon=&iconColor=%23E7E7E7&titleColor=%23FFFFFF&edgeFlat=false)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tolu13.tolu13)
 
 ---
 
